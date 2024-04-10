@@ -25,6 +25,7 @@ rank=np.linalg.solve(a,b)
 print (rank)
 ```
 # Output:
-#![alt text](<Screenshot 2024-04-08 210813.png>)
+![Screenshot 2024-04-08 210813](https://github.com/mukeshkumar1110/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/152305679/a697c36b-0cb8-413a-9b4c-86e60710a83b)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
